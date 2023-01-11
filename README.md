@@ -1,5 +1,5 @@
-## Hanzel Karaagac
-#### I am Hanzel from Turkey, I do content on QA Engineer.I really enjoy learning Java
+## Muhammet Özcan
+#### I am Muhammet from Turkey, I do content on QA Engineer.I really enjoy learning Java
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Hanzel+from+Turkey.;I+do+content+on+QA+Engineer.;I+really+enjoy+learning+Java;I+am+sharing+my+projects+in+here;)
 ## Skills: Java | Selenium | Cucumber | JIRA | SQL | JDBC | LAMBDA
 <h3 align=“left”>Languages and Tools:</h3>
@@ -10,7 +10,7 @@
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style=“margin-bottom: 5px;” />
 </a> <a href=“mailto:ozcanmuhammet298@gmail.com”><img src=“https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white” /></a>
  <a href=“https://medium.com/@hanzelkaraagac”><img src=“https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white” /></a>
-![Snake animation](https://github.com/Muhammet-Ozcan/MuhammetOzcan/blob/doc/grid-snake.svg)
+![Snake animation](https://github.com/Muhammet-Ozcan/MuhammetOzcan/doc/grid-snake.svg)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Muhammet-Ozcan&theme=python-dark&border_radius=70&background=0F060CFC&border=050E75EA&stroke=33098B&sideNums=2F1FFF&currStreakNum=C40CDD&dates=A601C4)](https://git.io/streak-stats)
 <br/>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
