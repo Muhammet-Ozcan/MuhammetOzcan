@@ -16,4 +16,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Muhammet-Ozcan&theme=python-dark&border_radius=70&background=0F060CFC&border=050E75EA&stroke=33098B&sideNums=2F1FFF&currStreakNum=C40CDD&dates=A601C4)](https://git.io/streak-stats)
 <br/>
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
+[![Github Badge]([https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link](https://github.com/Muhammet-Ozcan/MuhammetOzcan))](link)
