@@ -1,10 +1,11 @@
 9## Muhammet Çağatay Özcan
-#### I am Çağatay from Turkey, I do content on QA Engineer.I really enjoy learning Java.
+#### I am Çağatay from Turkey, I do content on QA Engineer And 
+data scientist.I really enjoy learning Java. I study Information Technology at Richmond University. 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&weight=700&size=23&duration=3000&pause=500&color=8D00ACE4&width=435&lines=+Hello%2C+I'm+Muhammet+Ozcan;I+live+in+Turkey;I+am+a+Full+Stack+Automation+Engineer...)](https://git.io/typing-svg)
-## Skills: Java | Selenium | Cucumber | JIRA | SQL | JDBC | LAMBDA
-
+## Skills: Java | Selenium | Cucumber | JIRA | SQL | JDBC | LAMBDA | PYTHON | POWER BI | TABLEAU | API | SEABOR AND  MATPLOTLİB | PANDAS AND NUMPY |
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammet-%C3%B6zcan-004b87256//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammet-%c3%b6zcan-automation-engineer-qa-software-test/" height="30" width="40" /></a>
