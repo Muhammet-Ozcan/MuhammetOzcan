@@ -1,5 +1,6 @@
-## Muhammet Çağatay Özcan
-#### I am Muhammet from Turkey, I do content on QA Engineer.I really enjoy learning Java.
+9## Muhammet Çağatay Özcan
+#### I am Çağatay from Turkey, I do content on QA Engineer.I really enjoy learning Java.
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&weight=700&size=23&duration=3000&pause=500&color=8D00ACE4&width=435&lines=+Hello%2C+I'm+Muhammet+Ozcan;I+live+in+Turkey;I+am+a+Full+Stack+Automation+Engineer...)](https://git.io/typing-svg)
 ## Skills: Java | Selenium | Cucumber | JIRA | SQL | JDBC | LAMBDA
