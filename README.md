@@ -1,4 +1,4 @@
-9## Muhammet Çağatay Özcan
+## Muhammet Çağatay Özcan
 #### I am Çağatay from Turkey, I do content on QA Engineer And 
 data scientist.I really enjoy learning Java. I study Information Technology at Richmond University. 
 
